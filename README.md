@@ -1,8 +1,6 @@
 ### Hi there 👋
 # I'm Abhishek
 
-![Visitor Count](https://profile-counter.glitch.me/{abhishekshahj}/count.svg)
-
 <!--
 **abhishekshahj/abhishekshahj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: abhishekshahj@gmail.com
 - ⚡ Fun fact: I can sleep 24 hours a day.
 -->
+
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishekshahj&theme=onedark&show_icons=true&count_private=true)
+
+![Visitor Count](https://profile-counter.glitch.me/{abhishekshahj}/count.svg)
