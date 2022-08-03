@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Front End Technologies
 - 📫 How to reach me: abhishekshahj@gmail.com
 - ⚡ Fun fact: I can sleep 24 hours a day.
--->
 
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishekshahj&theme=onedark&show_icons=true&count_private=true)
 
